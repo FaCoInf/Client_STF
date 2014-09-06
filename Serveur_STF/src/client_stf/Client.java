@@ -1,4 +1,4 @@
-/* FAGNO CORINNE */
+/*CORINNE */
 
 package client_stf;
 
